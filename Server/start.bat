@@ -1,0 +1,1 @@
+java -server -Djava.awt.headless=true -XX:ParallelGCThreads=4 -XX:+AggressiveOpts  -Xmx7680M -Xms128M -jar forge_server.jar nogui
